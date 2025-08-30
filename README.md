@@ -1,6 +1,6 @@
 # ⚡ **ExcelDataMaster - Thư Viện Siêu Tốc Truy Xuất Dữ Liệu Excel Qua Bộ Nhớ**
 
-> “Không cần mở Excel, không cần OLE Automation. Truy xuất dữ liệu từ hàng trăm file Excel chỉ trong ít giây – với sức mạnh của Memory DB.”
+> “Không cần mở Excel, không cần OLE Automation. Truy xuất dữ liệu từ nhiều file Excel chỉ trong ít giây – với sức mạnh của Memory DB.”
 
 ---
 
